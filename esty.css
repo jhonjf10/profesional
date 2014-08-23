@@ -1,0 +1,9 @@
+#paisaje
+	{
+		background : url(paisa.png), url(llega.jpg), url(sol1.png);
+		background-size:100% 100%;
+		background-repeat:no-repeat;
+		height: 400px;
+		width: 400px;
+				
+	}
